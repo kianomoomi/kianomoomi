@@ -8,8 +8,8 @@ I have a keen interest in several fascinating fields, including:
 
 - **Natural Language Processing (NLP) 💬**
 - **Information Retrieval 📚**
-- **Machine Learning 🤖**
-- **AI in Software Engineering 🖥️**
+- **Artificial Intelligence & Machine Learning 🤖**
+- **Software Engineering for AI-Based Systems🖥️**
 - **Human-Computer Interaction (HCI) 🌐**
 
 I love exploring the endless possibilities at the intersection of technology and human understanding. Feel free to learn more about my journey on my [personal homepage](kianomoomi.github.io)!
