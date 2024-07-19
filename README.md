@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub space! I am Kian Omoomi, a passionate Computer Engineering student at Sharif University of Technology, with an expected graduation date in July 2024. 🚀
+Welcome to my GitHub space! I am Kian Omoomi, and I received my bachelor’s degree in Computer Engineering from Sharif University of Technology in 2024.🚀
 
 ## About Me 🌟
 
